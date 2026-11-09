@@ -67,7 +67,7 @@ python -m venv .venv
 Install the packages required by the project:
 
 ```bash
-pip install opencv-python ultralytics mediapipe numpy lap
+pip install -r requirements.txt
 ```
 
 ### 4. Prepare the model files
